@@ -1,4 +1,3 @@
-# 🐾 Petshop Mundo Animal
 Projeto desenvolvido para a disciplina de **Fundamentos Web**
 ---
 ## 🎓 Curso
